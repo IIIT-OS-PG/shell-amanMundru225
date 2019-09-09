@@ -1,0 +1,6 @@
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/bin
+HOME=/home/aman
+PWD=/home/aman
+USER=amanmundru
+HOSTNAME=aman-Lenovo-G50-80
+PS1=$:
